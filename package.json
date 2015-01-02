@@ -1,0 +1,23 @@
+{
+  "name": "speedr-array2",
+  "version": "1.0.0",
+  "description": "Two-dimensional array",
+  "author": "Florent Cailhol <florent.cailhol@gmail.com>",
+  "repository": "speedr/array2",
+  "keywords": [
+    "speedr",
+    "array",
+    "array2"
+  ],
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "6to5 --source-maps-inline --out-dir lib src"
+  },
+  "devDependencies": {
+    "6to5": "^2.2.0"
+  },
+  "license": "MIT"
+}
