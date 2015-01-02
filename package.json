@@ -14,7 +14,8 @@
     "lib"
   ],
   "scripts": {
-    "build": "6to5 --source-maps-inline --out-dir lib src"
+    "build": "6to5 --source-maps-inline --out-dir lib src",
+    "prepublish": "npm run build"
   },
   "devDependencies": {
     "6to5": "^2.2.0"
