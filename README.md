@@ -11,7 +11,7 @@ $ npm install --save speedr-array2
 ## Usage
 
 ```js
-import {Array2} from 'speedr-array2'
+import Array2 from 'speedr-array2'
 
 const Tiles = {
   SAND: 0,

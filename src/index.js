@@ -1,4 +1,4 @@
-export class Array2 {
+export default class Array2 {
   constructor(w, h, initValue) {
     this.w = w
     this.h = h

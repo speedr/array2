@@ -1,6 +1,6 @@
 {
   "name": "speedr-array2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Two-dimensional array",
   "author": "Florent Cailhol <florent.cailhol@gmail.com>",
   "repository": "speedr/array2",
@@ -18,7 +18,7 @@
     "prepublish": "npm run build"
   },
   "devDependencies": {
-    "6to5": "^2.2.0"
+    "6to5": "^2.6.2"
   },
   "license": "MIT"
 }
